@@ -1,11 +1,18 @@
 ### TATYNA ABSATAROVA
 #### Frontend developer
 ___
-**Email:** tatynaerkinbek@gmail.com
-**Tel:** +996773225571
-**Linkedin:** https://www.linkedin.com/in/tatyna-absatarova-31a144252/
-**Github:** https://github.com/tatynaDev
-**CodeWars:** https://www.codewars.com/users/tatynaerkinbek
+
+## Overview
+Educated from course and practiced skills from IT club. The young specialist on the way to the level of junior, with 3 month experienced with team. Working on the self-discipline, on my soft and hard skills.
+
+___
+
+- **Email:** tatynaerkinbek@gmail.com
+- **Tel:** +996773225571
+- **Linkedin:** https://www.linkedin.com/in/tatyna-absatarova-31a144252/
+- **Github:** https://github.com/tatynaDev
+- **CodeWars:** https://www.codewars.com/users/tatynaerkinbek
+
 ___
 
 #### Skills:
@@ -13,6 +20,7 @@ ___
 - Framework: **React** 
 - Additional libraries: **Redux**, **Toolkit**, **Thunk**, **Tailwind**, **Bootstrap**
 - Languages: **English *B1***, **Russian *C1***, **German *A1***, **Korean *A2***, **Kyrgyz *native***.
+
 ___
 
 #### Projects:
@@ -22,8 +30,8 @@ ___
 
 ##### Experiences:
 **1**. **Frontend developer and Team Leader MOTION IT CLUB**
-2022.dec - 2023.march
-      - There were 3 projects ("Courses site", "Motion Study", ....)
+######2022.dec - 2023.march
+- There were 3 projects ("Courses site", "Motion Study", ....)
 - Club allowed us to visit the big IT companies, such as: EPAM (Kyrgyzstan), FinanceSoft , etc..
 - There were 3 frontend, 1 backend developers and 2 designers in our team.
 - We all spoke in English in this club and presented all our projects in English 
@@ -31,6 +39,7 @@ ___
 - Forced our discipline with the management tools like: MIRO, TRELLO etc.
 
 **2**. Now I'm mentoring at **Motion Web Academy** LLC.
+
 ___
 ##### Education:
 **Motion Web Academy LLC**
