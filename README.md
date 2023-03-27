@@ -1,1 +1,1 @@
-# rsschool-cv
+https://tatynaDev.github.io/rsschool-cv/
